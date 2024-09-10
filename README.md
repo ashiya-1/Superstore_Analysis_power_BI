@@ -1,12 +1,15 @@
 # Superstore_Analysis_power_BI
 
-To analyze and visualize sales and profit data from a superstore, providing actionable insights into product performance, customer behavior, and regional sales trends.It provides a detailed analysis of superstore performance, focusing on sales and profit metrics. It includes interactive filters for more granular analysis and visualizations to highlight key insights such as top-performing products, customer contributions, and regional sales performance
 
-Key Features:
+Overview:
+
+Analyze and visualize sales and profit data from a superstore, providing actionable insights into product performance, customer behavior, and regional sales trends.It provides a detailed analysis of superstore performance, focusing on sales and profit metrics. It includes interactive filters for more granular analysis and visualizations to highlight key insights such as top-performing products, customer contributions, and regional sales performance
+
+*Key Features:
 
 Interactive Slicers: Filter data by Category, State, and City for dynamic analysis.
 
-Visualizations:
+*Visualizations:
 
 Total Sales and Profit by Subcategory: Examines performance across product subcategories.
 
