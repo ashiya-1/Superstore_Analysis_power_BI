@@ -25,5 +25,3 @@ Sales by Region: Breaks down sales data by geographic regions.
 Top 5 Products by Profit: Highlights products with the highest profit margins.
 
 Sales by Segment: Assesses sales across various customer segments.
-
-The project provides a detailed analysis of superstore performance, focusing on sales and profit metrics. It includes interactive filters for more granular analysis and visualizations to highlight key insights such as top-performing products, customer contributions, and regional sales performance.
